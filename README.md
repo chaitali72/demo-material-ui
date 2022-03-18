@@ -1,3 +1,4 @@
 Demo - react with Material-UI
 create a project to revise Material-ui with react to practice basic topics
-![screenshot][demo1.jpg]
+
+![Screenshot][src/demo1.png]
